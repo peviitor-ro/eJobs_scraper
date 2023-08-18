@@ -1,0 +1,41 @@
+{
+    "Company": "CASADEAJUTORRECIPROCU.M.01531",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "CASADEAJUTORRECIPROCU.M.01531",
+            "job_title": "Agent Telesales",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales/1690704",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "39fc956c-58c8-449e-b8e5-2794ef01e3d6",
+            "company": "CASADEAJUTORRECIPROCU.M.01531",
+            "job_title": "Agent Telesales",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales/1690704",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "a438e2ba-598a-496b-8389-c92b46b6424f",
+            "company": "CASADEAJUTORRECIPROCU.M.01531",
+            "job_title": "Agent Telesales",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales/1690704",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "de492034-4621-4687-b5b0-c0d6ab58144e",
+            "company": "CASADEAJUTORRECIPROCU.M.01531",
+            "job_title": "Agent Telesales",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales/1690704",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

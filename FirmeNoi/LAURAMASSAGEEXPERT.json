@@ -1,0 +1,59 @@
+{
+    "Company": "LAURAMASSAGEEXPERT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "LAURAMASSAGEEXPERT",
+            "job_title": "Maseuza / Terapeut SPA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/maseuza-terapeut-spa/1691444",
+            "job_logo": "No logo found",
+            "job_location": "Alba Iulia",
+            "country": "Romania"
+        },
+        {
+            "id": "d07d96af-85e8-4412-b0fe-38724186577b",
+            "company": "LAURAMASSAGEEXPERT",
+            "job_title": "Maseuza / Terapeut SPA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/maseuza-terapeut-spa/1691444",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Alba Iulia",
+            "country": "Romania"
+        },
+        {
+            "id": "7feef56d-9bd9-4d3e-87c5-799601002cf7",
+            "company": "LAURAMASSAGEEXPERT",
+            "job_title": "Maseuza / Terapeut SPA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/maseuza-terapeut-spa/1691444",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Alba Iulia",
+            "country": "Romania"
+        },
+        {
+            "id": "af94b548-22dc-43b1-bac0-1df550ac9af0",
+            "company": "LAURAMASSAGEEXPERT",
+            "job_title": "Maseuza / Terapeut SPA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/maseuza-terapeut-spa/1691444",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Alba Iulia",
+            "country": "Romania"
+        },
+        {
+            "id": "34bda870-5b29-4910-bbbe-d0f83b36dac7",
+            "company": "LAURAMASSAGEEXPERT",
+            "job_title": "Maseuza / Terapeut SPA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/maseuza-terapeut-spa/1691444",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Alba Iulia",
+            "country": "Romania"
+        },
+        {
+            "id": "43708b09-9aeb-4f9b-af83-1335c4369007",
+            "company": "LAURAMASSAGEEXPERT",
+            "job_title": "Maseuza / Terapeut SPA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/maseuza-terapeut-spa/1691444",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Alba Iulia",
+            "country": "Romania"
+        }
+    ]
+}

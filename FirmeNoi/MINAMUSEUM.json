@@ -1,0 +1,59 @@
+{
+    "Company": "MINAMUSEUM",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "MINAMUSEUM",
+            "job_title": "Receptionist/a",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/receptionist-a/1693491",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "3752d9f3-bbe4-42c0-96e7-61d3d6f91481",
+            "company": "MINAMUSEUM",
+            "job_title": "Receptionist/a",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/receptionist-a/1693491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "8bd81d7b-a983-4271-8986-212081635aa1",
+            "company": "MINAMUSEUM",
+            "job_title": "Receptionist/a",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/receptionist-a/1693491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "3090ba55-f309-4b90-a9f1-dbb7858a1413",
+            "company": "MINAMUSEUM",
+            "job_title": "Receptionist/a",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/receptionist-a/1693491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "05c6f47a-e061-4902-858d-49ced5be1c6e",
+            "company": "MINAMUSEUM",
+            "job_title": "Receptionist/a",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/receptionist-a/1693491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "4c315209-af31-475a-9b53-e64d235fd78d",
+            "company": "MINAMUSEUM",
+            "job_title": "Receptionist/a",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/receptionist-a/1693491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

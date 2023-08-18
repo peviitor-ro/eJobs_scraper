@@ -1,0 +1,59 @@
+{
+    "Company": "BITCOMIOT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "BITCOMIOT",
+            "job_title": "Inginer proiectant / ofertare sisteme CCTV",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proiectant-ofertare-sisteme-cctv/1690540",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "f639eaf2-4a1b-4b13-80e1-f72ea1829f3a",
+            "company": "BITCOMIOT",
+            "job_title": "Inginer proiectant / ofertare sisteme CCTV",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proiectant-ofertare-sisteme-cctv/1690540",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "2f6b8ed7-bf14-444c-bf14-03b63fc08f6d",
+            "company": "BITCOMIOT",
+            "job_title": "Inginer proiectant / ofertare sisteme CCTV",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proiectant-ofertare-sisteme-cctv/1690540",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "74935edd-8338-4b55-9b1f-2238736bec54",
+            "company": "BITCOMIOT",
+            "job_title": "Inginer proiectant / ofertare sisteme CCTV",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proiectant-ofertare-sisteme-cctv/1690540",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "1ed0c9f9-3da6-4cbb-a391-1f46156d8ac9",
+            "company": "BITCOMIOT",
+            "job_title": "Inginer proiectant / ofertare sisteme CCTV",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proiectant-ofertare-sisteme-cctv/1690540",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "72894a4f-ecc8-4609-a46f-815369568217",
+            "company": "BITCOMIOT",
+            "job_title": "Inginer proiectant / ofertare sisteme CCTV",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/inginer-proiectant-ofertare-sisteme-cctv/1690540",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

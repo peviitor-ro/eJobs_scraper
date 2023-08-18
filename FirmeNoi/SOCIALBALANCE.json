@@ -1,0 +1,59 @@
+{
+    "Company": "SOCIALBALANCE",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "SOCIALBALANCE",
+            "job_title": "Agent Imobiliar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-imobiliar/1691722",
+            "job_logo": "No logo found",
+            "job_location": "Ploiesti",
+            "country": "Romania"
+        },
+        {
+            "id": "f9854192-0f33-4db5-aaf6-f98fda3ed9ef",
+            "company": "SOCIALBALANCE",
+            "job_title": "Agent Imobiliar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-imobiliar/1691722",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Ploiesti",
+            "country": "Romania"
+        },
+        {
+            "id": "080a9dff-20c0-49fc-93c0-fca1636e2ba4",
+            "company": "SOCIALBALANCE",
+            "job_title": "Agent Imobiliar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-imobiliar/1691722",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ploiesti",
+            "country": "Romania"
+        },
+        {
+            "id": "a6f4292c-08bf-4f7f-b179-a3c108ff052e",
+            "company": "SOCIALBALANCE",
+            "job_title": "Agent Imobiliar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-imobiliar/1691722",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ploiesti",
+            "country": "Romania"
+        },
+        {
+            "id": "0c910cd9-f816-4f3f-8721-37743bb156ff",
+            "company": "SOCIALBALANCE",
+            "job_title": "Agent Imobiliar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-imobiliar/1691722",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ploiesti",
+            "country": "Romania"
+        },
+        {
+            "id": "9770248a-358a-4508-abbd-96af12b6b926",
+            "company": "SOCIALBALANCE",
+            "job_title": "Agent Imobiliar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-imobiliar/1691722",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ploiesti",
+            "country": "Romania"
+        }
+    ]
+}

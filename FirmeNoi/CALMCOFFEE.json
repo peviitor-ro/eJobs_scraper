@@ -1,0 +1,24 @@
+{
+    "Company": "CALMCOFFEE",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "e92f93f0-92ce-49b9-a129-b95bd5931521",
+            "company": "CALMCOFFEE",
+            "job_title": "Barista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/barista/1691155",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "d6900d14-620b-4ffa-8a41-6eadcbde5b52",
+            "company": "CALMCOFFEE",
+            "job_title": "Barista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/barista/1691155",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

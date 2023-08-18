@@ -1,0 +1,59 @@
+{
+    "Company": "CHENIVIDAINTERTRANS",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "CHENIVIDAINTERTRANS",
+            "job_title": "Sofer C+E pe ruta Austria-Germania",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sofer-c-e-pe-ruta-austria-germania/1692607",
+            "job_logo": "No logo found",
+            "job_location": "Hunedoara",
+            "country": "Romania"
+        },
+        {
+            "id": "df5ef582-7b73-407d-852c-8f20c96d78ab",
+            "company": "CHENIVIDAINTERTRANS",
+            "job_title": "Sofer C+E pe ruta Austria-Germania",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sofer-c-e-pe-ruta-austria-germania/1692607",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Hunedoara",
+            "country": "Romania"
+        },
+        {
+            "id": "64ac00f6-5f49-446d-bcc7-4301ab2ddade",
+            "company": "CHENIVIDAINTERTRANS",
+            "job_title": "Sofer C+E pe ruta Austria-Germania",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sofer-c-e-pe-ruta-austria-germania/1692607",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Hunedoara",
+            "country": "Romania"
+        },
+        {
+            "id": "439d37e4-9fbf-4669-b179-a3c815d5527a",
+            "company": "CHENIVIDAINTERTRANS",
+            "job_title": "Sofer C+E pe ruta Austria-Germania",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sofer-c-e-pe-ruta-austria-germania/1692607",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Hunedoara",
+            "country": "Romania"
+        },
+        {
+            "id": "0ca26b70-c25e-41af-b307-397ddddb57fc",
+            "company": "CHENIVIDAINTERTRANS",
+            "job_title": "Sofer C+E pe ruta Austria-Germania",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sofer-c-e-pe-ruta-austria-germania/1692607",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Hunedoara",
+            "country": "Romania"
+        },
+        {
+            "id": "82341a9c-62d4-4695-a7b4-effc0f10c088",
+            "company": "CHENIVIDAINTERTRANS",
+            "job_title": "Sofer C+E pe ruta Austria-Germania",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sofer-c-e-pe-ruta-austria-germania/1692607",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Hunedoara",
+            "country": "Romania"
+        }
+    ]
+}

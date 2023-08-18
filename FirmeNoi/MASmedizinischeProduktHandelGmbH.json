@@ -1,0 +1,59 @@
+{
+    "Company": "MASmedizinischeProduktHandelGmbH",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "MASmedizinischeProduktHandelGmbH",
+            "job_title": "Infirmier/Infirmieră – Salariu brut 3000 euro / lună",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/infirmier-infirmiera-salariu-brut-euro-luna/1693378",
+            "job_logo": "No logo found",
+            "job_location": "Strainatate",
+            "country": "Romania"
+        },
+        {
+            "id": "9d4a855d-109b-4dc5-8652-95bfd559cc97",
+            "company": "MASmedizinischeProduktHandelGmbH",
+            "job_title": "Infirmier/Infirmieră – Salariu brut 3000 euro / lună",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/infirmier-infirmiera-salariu-brut-euro-luna/1693378",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Strainatate",
+            "country": "Romania"
+        },
+        {
+            "id": "5f284c33-3e86-4316-8faa-fb9283e21af1",
+            "company": "MASmedizinischeProduktHandelGmbH",
+            "job_title": "Infirmier/Infirmiera – Salariu brut 3000 euro / luna",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/infirmier-infirmiera-salariu-brut-euro-luna/1693378",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Strainatate",
+            "country": "Romania"
+        },
+        {
+            "id": "ec6e296a-7295-4e5e-9f37-a18e798f44bb",
+            "company": "MASmedizinischeProduktHandelGmbH",
+            "job_title": "Infirmier/Infirmiera  Salariu brut 3000 euro / luna",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/infirmier-infirmiera-salariu-brut-euro-luna/1693378",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Strainatate",
+            "country": "Romania"
+        },
+        {
+            "id": "b04a3a9b-c7cb-49a3-bf3c-3f6a2b8b687a",
+            "company": "MASmedizinischeProduktHandelGmbH",
+            "job_title": "Infirmier/Infirmiera  Salariu brut 3000 euro / luna",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/infirmier-infirmiera-salariu-brut-euro-luna/1693378",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Strainatate",
+            "country": "Romania"
+        },
+        {
+            "id": "838990a1-c2d4-4b1c-ad78-8119cd0a1c6c",
+            "company": "MASmedizinischeProduktHandelGmbH",
+            "job_title": "Infirmier/Infirmiera  Salariu brut 3000 euro / luna",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/infirmier-infirmiera-salariu-brut-euro-luna/1693378",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Strainatate",
+            "country": "Romania"
+        }
+    ]
+}

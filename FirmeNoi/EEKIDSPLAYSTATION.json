@@ -1,0 +1,24 @@
+{
+    "Company": "EEKIDSPLAYSTATION",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "a62b8293-b2e8-42bd-9eac-ffa135fa3c9c",
+            "company": "EEKIDSPLAYSTATION",
+            "job_title": "Supraveghetor loc joaca/Afterschool",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/supraveghetor-loc-joaca-afterschool/1691223",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Constanta",
+            "country": "Romania"
+        },
+        {
+            "id": "2e785576-cf97-40f7-8cce-97ead5a29d33",
+            "company": "EEKIDSPLAYSTATION",
+            "job_title": "Supraveghetor loc joaca/Afterschool",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/supraveghetor-loc-joaca-afterschool/1691223",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Constanta",
+            "country": "Romania"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Company": "DANANDYPLUS",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "DANANDYPLUS",
+            "job_title": "CONTABILITATE PRIMARA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabilitate-primara/1692211",
+            "job_logo": "No logo found",
+            "job_location": "Cluj-Napoca",
+            "country": "Romania"
+        },
+        {
+            "id": "9c63bbd3-00c3-47ab-8fe5-6a79df230d5b",
+            "company": "DANANDYPLUS",
+            "job_title": "CONTABILITATE PRIMARA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabilitate-primara/1692211",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Cluj-Napoca",
+            "country": "Romania"
+        },
+        {
+            "id": "a2fe2c71-9b15-4007-9921-490a06ad001f",
+            "company": "DANANDYPLUS",
+            "job_title": "CONTABILITATE PRIMARA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabilitate-primara/1692211",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Cluj-Napoca",
+            "country": "Romania"
+        },
+        {
+            "id": "156d2417-4592-4a1c-a1e6-5e7269959ad0",
+            "company": "DANANDYPLUS",
+            "job_title": "CONTABILITATE PRIMARA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabilitate-primara/1692211",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Cluj-Napoca",
+            "country": "Romania"
+        },
+        {
+            "id": "a8fe839e-6833-4ebf-81e9-2ec6e0d9a006",
+            "company": "DANANDYPLUS",
+            "job_title": "CONTABILITATE PRIMARA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabilitate-primara/1692211",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Cluj-Napoca",
+            "country": "Romania"
+        },
+        {
+            "id": "2b7a0d0a-ef37-40ff-8230-649046f91a10",
+            "company": "DANANDYPLUS",
+            "job_title": "CONTABILITATE PRIMARA",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabilitate-primara/1692211",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Cluj-Napoca",
+            "country": "Romania"
+        }
+    ]
+}

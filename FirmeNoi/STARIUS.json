@@ -1,0 +1,59 @@
+{
+    "Company": "STARIUS",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "STARIUS",
+            "job_title": "Operator/Operatoare Pariuri Sportive",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-operatoare-pariuri-sportive/1692816",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "df68c130-43a1-487a-bb66-581a738a6bd4",
+            "company": "STARIUS",
+            "job_title": "Operator/Operatoare Pariuri Sportive",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-operatoare-pariuri-sportive/1692816",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "118e65c6-a7c4-4081-a227-f8c4c8db827d",
+            "company": "STARIUS",
+            "job_title": "Operator/Operatoare Pariuri Sportive",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-operatoare-pariuri-sportive/1692816",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "b85b505b-49f9-4841-828e-d4af5ca9f8f9",
+            "company": "STARIUS",
+            "job_title": "Operator/Operatoare Pariuri Sportive",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-operatoare-pariuri-sportive/1692816",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "3793fa98-2ae7-4246-bae8-cc78e5a1a4ea",
+            "company": "STARIUS",
+            "job_title": "Operator/Operatoare Pariuri Sportive",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-operatoare-pariuri-sportive/1692816",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "c896f518-2db5-4476-8b29-3eab9c3b2604",
+            "company": "STARIUS",
+            "job_title": "Operator/Operatoare Pariuri Sportive",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-operatoare-pariuri-sportive/1692816",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

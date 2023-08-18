@@ -1,0 +1,59 @@
+{
+    "Company": "TOWERINVEST",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "TOWERINVEST",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1691644",
+            "job_logo": "No logo found",
+            "job_location": "Sibiu",
+            "country": "Romania"
+        },
+        {
+            "id": "53e255cc-9421-464d-bd40-de7494ae580a",
+            "company": "TOWERINVEST",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1691644",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Sibiu",
+            "country": "Romania"
+        },
+        {
+            "id": "b4657a4e-0437-4bed-b595-e5c060599a09",
+            "company": "TOWERINVEST",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1691644",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Sibiu",
+            "country": "Romania"
+        },
+        {
+            "id": "2ffba126-846b-4720-a5c1-4f8ccf375135",
+            "company": "TOWERINVEST",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1691644",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Sibiu",
+            "country": "Romania"
+        },
+        {
+            "id": "c714c80b-f05e-4303-8b28-5444a588c7e9",
+            "company": "TOWERINVEST",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1691644",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Sibiu",
+            "country": "Romania"
+        },
+        {
+            "id": "0df90b07-8c92-4883-9236-ad611d0cd086",
+            "company": "TOWERINVEST",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1691644",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Sibiu",
+            "country": "Romania"
+        }
+    ]
+}

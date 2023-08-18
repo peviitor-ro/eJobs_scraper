@@ -1,0 +1,41 @@
+{
+    "Company": "SEBY&OANASPEDITION",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "SEBY&OANASPEDITION",
+            "job_title": "DISPECER TRANSPORTURI INTERNATIONALE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/dispecer-transporturi-internationale/1692753",
+            "job_logo": "No logo found",
+            "job_location": "Sibiu",
+            "country": "Romania"
+        },
+        {
+            "id": "cc77c2fa-2a02-436f-a29a-50ff4ae0ad14",
+            "company": "SEBY&OANASPEDITION",
+            "job_title": "DISPECER TRANSPORTURI INTERNATIONALE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/dispecer-transporturi-internationale/1692753",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Sibiu",
+            "country": "Romania"
+        },
+        {
+            "id": "b8dfece4-eeb8-444e-a0c4-ff3b8dd149af",
+            "company": "SEBY&OANASPEDITION",
+            "job_title": "DISPECER TRANSPORTURI INTERNATIONALE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/dispecer-transporturi-internationale/1692753",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Sibiu",
+            "country": "Romania"
+        },
+        {
+            "id": "5eaec8d2-4fe5-4ede-969e-49c0757bb980",
+            "company": "SEBY&OANASPEDITION",
+            "job_title": "DISPECER TRANSPORTURI INTERNATIONALE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/dispecer-transporturi-internationale/1692753",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Sibiu",
+            "country": "Romania"
+        }
+    ]
+}

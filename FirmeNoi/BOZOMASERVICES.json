@@ -1,0 +1,59 @@
+{
+    "Company": "BOZOMASERVICES",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "BOZOMASERVICES",
+            "job_title": "Menajera/personal curatenie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1691319",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "05b8c921-801b-4ebb-a3a5-b741db9932f0",
+            "company": "BOZOMASERVICES",
+            "job_title": "Menajera/personal curatenie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1691319",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "b2fea066-bfac-4e8e-956a-ac3afe23e903",
+            "company": "BOZOMASERVICES",
+            "job_title": "Menajera/personal curatenie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1691319",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "1e9cef60-fb7a-4819-b9d6-39409255a275",
+            "company": "BOZOMASERVICES",
+            "job_title": "Menajera/personal curatenie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1691319",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "28347c50-2060-4417-8885-f76011fcd250",
+            "company": "BOZOMASERVICES",
+            "job_title": "Menajera/personal curatenie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1691319",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "576f3e24-29c1-45b7-8d84-9698e6528d26",
+            "company": "BOZOMASERVICES",
+            "job_title": "Menajera/personal curatenie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1691319",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Company": "ADATRADING",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "ADATRADING",
+            "job_title": "Mecanic Utilaje",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-utilaje/1693518",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "573a8fe6-c0a2-4a20-b8c6-92e970211cba",
+            "company": "ADATRADING",
+            "job_title": "Mecanic Utilaje",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-utilaje/1693518",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "25478a85-2482-4340-8555-a0124d8cf30c",
+            "company": "ADATRADING",
+            "job_title": "Mecanic Utilaje",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-utilaje/1693518",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "db9cb6b8-8d82-430e-93b0-ecaa2e98948c",
+            "company": "ADATRADING",
+            "job_title": "Mecanic Utilaje",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-utilaje/1693518",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "c7920617-3718-4369-b79e-f29f9a471c8a",
+            "company": "ADATRADING",
+            "job_title": "Mecanic Utilaje",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-utilaje/1693518",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "5c295ccc-f66b-4cae-97c7-221e33e34fb6",
+            "company": "ADATRADING",
+            "job_title": "Mecanic Utilaje",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/mecanic-utilaje/1693518",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

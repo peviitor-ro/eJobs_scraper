@@ -1,0 +1,59 @@
+{
+    "Company": "EDDSOLUTIONS",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "EDDSOLUTIONS",
+            "job_title": "Operator Call Center (Publicitate/Vanzari)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-call-center-publicitate-vanzari/1693215",
+            "job_logo": "No logo found",
+            "job_location": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "e056c24f-9c19-4363-baf1-37f15d9d997a",
+            "company": "EDDSOLUTIONS",
+            "job_title": "Operator Call Center (Publicitate/Vanzari)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-call-center-publicitate-vanzari/1693215",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "63264d78-7c15-48ba-aebc-31a866d9bec9",
+            "company": "EDDSOLUTIONS",
+            "job_title": "Operator Call Center (Publicitate/Vanzari)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-call-center-publicitate-vanzari/1693215",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "354865a1-8808-4ceb-ba92-5062da516f07",
+            "company": "EDDSOLUTIONS",
+            "job_title": "Operator Call Center (Publicitate/Vanzari)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-call-center-publicitate-vanzari/1693215",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "4ca47f75-66e4-45fb-a517-40d5c3a9ee09",
+            "company": "EDDSOLUTIONS",
+            "job_title": "Operator Call Center (Publicitate/Vanzari)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-call-center-publicitate-vanzari/1693215",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "0b53ad7c-9026-47dd-b7d6-df49162bc661",
+            "company": "EDDSOLUTIONS",
+            "job_title": "Operator Call Center (Publicitate/Vanzari)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-call-center-publicitate-vanzari/1693215",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Company": "LURACONTEX",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "LURACONTEX",
+            "job_title": "Angajam gestionar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/angajam-gestionar/1693664",
+            "job_logo": "No logo found",
+            "job_location": "Piatra Neamt",
+            "country": "Romania"
+        },
+        {
+            "id": "ba7cd24b-cc8e-4b70-90df-7d132a841748",
+            "company": "LURACONTEX",
+            "job_title": "Angajam gestionar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/angajam-gestionar/1693664",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Piatra Neamt",
+            "country": "Romania"
+        },
+        {
+            "id": "b6a3c390-c1ae-48ed-8a95-a520c517096e",
+            "company": "LURACONTEX",
+            "job_title": "Angajam gestionar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/angajam-gestionar/1693664",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Piatra Neamt",
+            "country": "Romania"
+        },
+        {
+            "id": "fc179794-7b4a-4a0d-9de3-01fa8fa4b2e0",
+            "company": "LURACONTEX",
+            "job_title": "Angajam gestionar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/angajam-gestionar/1693664",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Piatra Neamt",
+            "country": "Romania"
+        },
+        {
+            "id": "20c1c6a9-3fb9-4680-bed9-0dd071cc6bcd",
+            "company": "LURACONTEX",
+            "job_title": "Angajam gestionar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/angajam-gestionar/1693664",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Piatra Neamt",
+            "country": "Romania"
+        },
+        {
+            "id": "8c2fc7af-243b-46ff-87ac-44e8b30be333",
+            "company": "LURACONTEX",
+            "job_title": "Angajam gestionar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/angajam-gestionar/1693664",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Piatra Neamt",
+            "country": "Romania"
+        }
+    ]
+}

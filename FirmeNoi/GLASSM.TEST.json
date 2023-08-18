@@ -1,0 +1,76 @@
+{
+    "Company": "GLASSM.TEST",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "GLASSM.TEST",
+            "job_title": "ASISTENT MANAGER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-manager/1693207",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "company": "GLASSM.TEST",
+            "job_title": "Sef atelier ( Reparatii autovehicule )",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sef-atelier-reparatii-autovehicule/1691459",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "fdef7e16-2ad9-44a2-b56f-662337610285",
+            "company": "GLASSM.TEST",
+            "job_title": "ASISTENT MANAGER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-manager/1693207",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "08603322-b992-4664-b4a9-cb751a7adc40",
+            "company": "GLASSM.TEST",
+            "job_title": "Sef atelier ( Reparatii autovehicule )",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sef-atelier-reparatii-autovehicule/1691459",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "4e72e125-32a3-4518-8b23-592c69466706",
+            "company": "GLASSM.TEST",
+            "job_title": "ASISTENT MANAGER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-manager/1693207",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "28426152-188c-4fe4-9ee5-51450da1e88a",
+            "company": "GLASSM.TEST",
+            "job_title": "Sef atelier ( Reparatii autovehicule )",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sef-atelier-reparatii-autovehicule/1691459",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "feba0a10-ec41-471e-b547-86719a67a939",
+            "company": "GLASSM.TEST",
+            "job_title": "ASISTENT MANAGER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-manager/1693207",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "468d76ac-734d-419b-a882-99d569548f2c",
+            "company": "GLASSM.TEST",
+            "job_title": "Sef atelier ( Reparatii autovehicule )",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/sef-atelier-reparatii-autovehicule/1691459",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

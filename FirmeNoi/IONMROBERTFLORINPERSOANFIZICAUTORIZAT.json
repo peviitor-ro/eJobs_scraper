@@ -1,0 +1,24 @@
+{
+    "Company": "IONMROBERTFLORINPERSOANFIZICAUTORIZAT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "abb6e70a-82e4-41f4-bd18-ff3716ce871c",
+            "company": "IONMROBERTFLORINPERSOANFIZICAUTORIZAT",
+            "job_title": "Operator CNC",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-cnc/1694054",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Strainatate",
+            "country": "Romania"
+        },
+        {
+            "id": "a5a6a540-6c64-403d-a0ab-54fe4ef50f68",
+            "company": "IONMROBERTFLORINPERSOANFIZICAUTORIZAT",
+            "job_title": "Operator CNC",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-cnc/1694054",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Strainatate",
+            "country": "Romania"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Company": "PETRIORDINAMICMANAGEMENT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "489ce170-e522-454b-ab7f-339326316188",
+            "company": "PETRIORDINAMICMANAGEMENT",
+            "job_title": "Manager Magazin",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manager-magazin/1692562",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "1f133a34-7fab-4354-9562-df125ded0312",
+            "company": "PETRIORDINAMICMANAGEMENT",
+            "job_title": "Manager Magazin",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manager-magazin/1692562",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

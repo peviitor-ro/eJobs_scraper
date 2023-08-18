@@ -1,0 +1,41 @@
+{
+    "Company": "COSMOSQUANTUMFOOD&DRINKS",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "COSMOSQUANTUMFOOD&DRINKS",
+            "job_title": "CONTABIL SENIOR",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-senior/1691290",
+            "job_logo": "No logo found",
+            "job_location": "Afumati",
+            "country": "Romania"
+        },
+        {
+            "id": "e8e97e88-4996-4c8c-925d-b800051fdb4a",
+            "company": "COSMOSQUANTUMFOOD&DRINKS",
+            "job_title": "CONTABIL SENIOR",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-senior/1691290",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Afumati",
+            "country": "Romania"
+        },
+        {
+            "id": "49084fd5-8fda-4048-a114-d2e6c02da990",
+            "company": "COSMOSQUANTUMFOOD&DRINKS",
+            "job_title": "CONTABIL SENIOR",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-senior/1691290",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ilfov",
+            "country": "Romania"
+        },
+        {
+            "id": "8fc77a00-70b4-4b86-a8b7-86093a86e028",
+            "company": "COSMOSQUANTUMFOOD&DRINKS",
+            "job_title": "CONTABIL SENIOR",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-senior/1691290",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ilfov",
+            "country": "Romania"
+        }
+    ]
+}

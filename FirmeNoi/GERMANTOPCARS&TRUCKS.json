@@ -1,0 +1,23 @@
+{
+    "Company": "GERMANTOPCARS&TRUCKS",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "GERMANTOPCARS&TRUCKS",
+            "job_title": "Manager Transport International",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manager-transport-international/1692611",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "d7bae63e-7daf-43a6-b69f-2a3a55beb0db",
+            "company": "GERMANTOPCARS&TRUCKS",
+            "job_title": "Manager Transport International",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manager-transport-international/1692611",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Company": "DMBSERVEVENT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "DMBSERVEVENT",
+            "job_title": "Specialisti in Cosmetica",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/specialisti-in-cosmetica/1692917",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "22d48fe9-9282-4cf3-b743-67985b8c5c6e",
+            "company": "DMBSERVEVENT",
+            "job_title": "Specialisti in Cosmetica",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/specialisti-in-cosmetica/1692917",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "61e5cc15-e30b-414a-b976-3329f525a583",
+            "company": "DMBSERVEVENT",
+            "job_title": "Specialisti in Cosmetica",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/specialisti-in-cosmetica/1692917",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "3e24b643-1edf-40c8-8c9f-e71bb8efea4b",
+            "company": "DMBSERVEVENT",
+            "job_title": "Specialisti in Cosmetica",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/specialisti-in-cosmetica/1692917",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "9b43f6dd-302b-4df2-adf5-8bb95d7aeb16",
+            "company": "DMBSERVEVENT",
+            "job_title": "Specialisti in Cosmetica",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/specialisti-in-cosmetica/1692917",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "6f488921-365e-4cdc-80d8-29e3666d5f7a",
+            "company": "DMBSERVEVENT",
+            "job_title": "Specialisti in Cosmetica",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/specialisti-in-cosmetica/1692917",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

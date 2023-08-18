@@ -1,0 +1,59 @@
+{
+    "Company": "DEFTMAINIISCUSITE",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "DEFTMAINIISCUSITE",
+            "job_title": "Manichiurista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manichiurista/1690787",
+            "job_logo": "No logo found",
+            "job_location": "Targoviste",
+            "country": "Romania"
+        },
+        {
+            "id": "bd36dd6d-6bdb-4bf9-a157-f364dd9e7aef",
+            "company": "DEFTMAINIISCUSITE",
+            "job_title": "Manichiurista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manichiurista/1690787",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Targoviste",
+            "country": "Romania"
+        },
+        {
+            "id": "de13abdf-444c-4edc-b8be-372f0504e785",
+            "company": "DEFTMAINIISCUSITE",
+            "job_title": "Manichiurista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manichiurista/1690787",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Targoviste",
+            "country": "Romania"
+        },
+        {
+            "id": "1def2543-079a-4d1c-ae2d-672e8e56db8b",
+            "company": "DEFTMAINIISCUSITE",
+            "job_title": "Manichiurista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manichiurista/1690787",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Targoviste",
+            "country": "Romania"
+        },
+        {
+            "id": "1fd93c99-2c21-4d7a-b502-0dba29ed28f9",
+            "company": "DEFTMAINIISCUSITE",
+            "job_title": "Manichiurista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manichiurista/1690787",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Targoviste",
+            "country": "Romania"
+        },
+        {
+            "id": "a0189163-18bf-4cd5-98e2-8b4991fb8566",
+            "company": "DEFTMAINIISCUSITE",
+            "job_title": "Manichiurista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manichiurista/1690787",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Targoviste",
+            "country": "Romania"
+        }
+    ]
+}

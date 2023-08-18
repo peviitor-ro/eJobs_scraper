@@ -1,0 +1,41 @@
+{
+    "Company": "CALM&COFFEE",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "CALM&COFFEE",
+            "job_title": "Barista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/barista/1691155",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "4e620a95-e74a-40f4-8646-6f0dda2e1860",
+            "company": "CALM&COFFEE",
+            "job_title": "Barista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/barista/1691155",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "d616d85f-ce2c-410e-8fbe-bd8e464b414b",
+            "company": "CALM&COFFEE",
+            "job_title": "Barista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/barista/1691155",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "14a667a4-6134-493e-9679-0af47ce910cf",
+            "company": "CALM&COFFEE",
+            "job_title": "Barista",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/barista/1691155",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

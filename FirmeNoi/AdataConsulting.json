@@ -1,0 +1,59 @@
+{
+    "Company": "AdataConsulting",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "AdataConsulting",
+            "job_title": "Contabil cu experienta",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-cu-experienta/1693660",
+            "job_logo": "No logo found",
+            "job_location": "Craiova",
+            "country": "Romania"
+        },
+        {
+            "id": "5c379feb-6f96-40c2-80ff-21b8eea46bc6",
+            "company": "AdataConsulting",
+            "job_title": "Contabil cu experienta",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-cu-experienta/1693660",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Craiova",
+            "country": "Romania"
+        },
+        {
+            "id": "94b4f822-133f-4365-9b06-135177110367",
+            "company": "AdataConsulting",
+            "job_title": "Contabil cu experienta",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-cu-experienta/1693660",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Craiova",
+            "country": "Romania"
+        },
+        {
+            "id": "24052e19-a448-4e97-9249-03cf84628ca9",
+            "company": "AdataConsulting",
+            "job_title": "Contabil cu experienta",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-cu-experienta/1693660",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Craiova",
+            "country": "Romania"
+        },
+        {
+            "id": "28bbfa7d-1d4f-42ee-a754-04da7fef8820",
+            "company": "AdataConsulting",
+            "job_title": "Contabil cu experienta",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-cu-experienta/1693660",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Craiova",
+            "country": "Romania"
+        },
+        {
+            "id": "38253946-87aa-485b-9f99-2a3b9b166e5f",
+            "company": "AdataConsulting",
+            "job_title": "Contabil cu experienta",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/contabil-cu-experienta/1693660",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Craiova",
+            "country": "Romania"
+        }
+    ]
+}

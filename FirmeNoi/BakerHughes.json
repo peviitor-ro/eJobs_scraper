@@ -1,0 +1,42 @@
+{
+    "Company": "BakerHughes",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "7109f966-946c-4546-9345-452da1e17944",
+            "company": "BakerHughes",
+            "job_title": "Operator electro - mecanic",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-electro-mecanic/1693933",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ploiesti",
+            "country": "Romania"
+        },
+        {
+            "id": "100dc369-ed02-4c71-9456-d89c810fa832",
+            "company": "BakerHughes",
+            "job_title": "Operator electro - mecanic",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-electro-mecanic/1693933",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ploiesti",
+            "country": "Romania"
+        },
+        {
+            "id": "4c719ce1-24d1-4fc8-a2e0-3eced9cd6555",
+            "company": "BakerHughes",
+            "job_title": "Operator electro - mecanic",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-electro-mecanic/1693933",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ploiesti",
+            "country": "Romania"
+        },
+        {
+            "id": "2fe247e3-206d-478e-8e07-57f9d42f21d6",
+            "company": "BakerHughes",
+            "job_title": "Operator electro - mecanic",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-electro-mecanic/1693933",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Ploiesti",
+            "country": "Romania"
+        }
+    ]
+}

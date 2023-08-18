@@ -1,0 +1,42 @@
+{
+    "Company": "CREPEEFECT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "1105331c-f5c1-4d91-8990-f082440fb61f",
+            "company": "CREPEEFECT",
+            "job_title": "OPERATOR SALA JOCURI",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-sala-jocuri/1693749",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "3ed7b9d3-bea9-4d0e-bee1-b89d757cc434",
+            "company": "CREPEEFECT",
+            "job_title": "OPERATOR SALA JOCURI",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-sala-jocuri/1693749",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "c7ad58de-9f6d-4cd2-9213-7015a35b5fc8",
+            "company": "CREPEEFECT",
+            "job_title": "OPERATOR SALA JOCURI",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-sala-jocuri/1693749",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "24dceac4-ff86-4fcc-b2d1-7ec0b81c7bd5",
+            "company": "CREPEEFECT",
+            "job_title": "OPERATOR SALA JOCURI",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/operator-sala-jocuri/1693749",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

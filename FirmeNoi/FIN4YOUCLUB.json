@@ -1,0 +1,42 @@
+{
+    "Company": "FIN4YOUCLUB",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "23865ac7-e079-4e28-848e-27eb0a87d0cf",
+            "company": "FIN4YOUCLUB",
+            "job_title": "Product Specialist",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/product-specialist/1693890",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Arad",
+            "country": "Romania"
+        },
+        {
+            "id": "6b890e98-e31a-4d9b-83d5-a0679663194a",
+            "company": "FIN4YOUCLUB",
+            "job_title": "Product Specialist",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/product-specialist/1693890",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Arad",
+            "country": "Romania"
+        },
+        {
+            "id": "3e545575-8061-41a8-aa97-ad86bf0c738e",
+            "company": "FIN4YOUCLUB",
+            "job_title": "Product Specialist",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/product-specialist/1693890",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Arad",
+            "country": "Romania"
+        },
+        {
+            "id": "4139d901-823e-4896-91f0-0f799b2a243f",
+            "company": "FIN4YOUCLUB",
+            "job_title": "Product Specialist",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/product-specialist/1693890",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Arad",
+            "country": "Romania"
+        }
+    ]
+}

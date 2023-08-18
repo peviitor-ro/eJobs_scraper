@@ -1,0 +1,59 @@
+{
+    "Company": "ARGOSTILCOMTUR",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "ARGOSTILCOMTUR",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1690604",
+            "job_logo": "No logo found",
+            "job_location": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "73315b32-f55a-4376-803e-1ab994b90d19",
+            "company": "ARGOSTILCOMTUR",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1690604",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "78aa73b5-6772-4022-b3d4-887a75e73221",
+            "company": "ARGOSTILCOMTUR",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1690604",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "a6161705-adc8-4e8c-b95e-76b4d82f7e7f",
+            "company": "ARGOSTILCOMTUR",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1690604",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "8d82492d-c16b-46fc-a690-2d300835cee1",
+            "company": "ARGOSTILCOMTUR",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1690604",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "d588080f-42fc-4a36-9bce-bd96f8acf02f",
+            "company": "ARGOSTILCOMTUR",
+            "job_title": "Consultant Vanzari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-vanzari/1690604",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        }
+    ]
+}

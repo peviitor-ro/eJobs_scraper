@@ -1,0 +1,59 @@
+{
+    "Company": "STREETCHOW",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "STREETCHOW",
+            "job_title": "Bucatar si ajutor bucatar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/bucatar-si-ajutor-bucatar/1692491",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "4fd2400e-567e-4e38-8457-d5f1ca19e23b",
+            "company": "STREETCHOW",
+            "job_title": "Bucatar si ajutor bucatar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/bucatar-si-ajutor-bucatar/1692491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "b8958de2-c80c-474d-98bd-f20d6ca12380",
+            "company": "STREETCHOW",
+            "job_title": "Bucatar si ajutor bucatar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/bucatar-si-ajutor-bucatar/1692491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "e91db718-bbb5-44db-bdf6-cf06b9a98d40",
+            "company": "STREETCHOW",
+            "job_title": "Bucatar si ajutor bucatar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/bucatar-si-ajutor-bucatar/1692491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "63f811f7-7789-43fc-9d25-72ffd035f4ce",
+            "company": "STREETCHOW",
+            "job_title": "Bucatar si ajutor bucatar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/bucatar-si-ajutor-bucatar/1692491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "8d7fdaf6-dfad-421e-a062-87be91444bfb",
+            "company": "STREETCHOW",
+            "job_title": "Bucatar si ajutor bucatar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/bucatar-si-ajutor-bucatar/1692491",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

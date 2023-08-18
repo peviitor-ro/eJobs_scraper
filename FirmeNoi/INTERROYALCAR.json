@@ -1,0 +1,59 @@
+{
+    "Company": "INTERROYALCAR",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "INTERROYALCAR",
+            "job_title": "INTERNATIONAL FREIGHT FORWARDER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/international-freight-forwarder/1692641",
+            "job_logo": "No logo found",
+            "job_location": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "2ff01f57-8862-4400-a116-93af20220038",
+            "company": "INTERROYALCAR",
+            "job_title": "INTERNATIONAL FREIGHT FORWARDER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/international-freight-forwarder/1692641",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "78d099a6-1019-41fe-a157-33f8f7035720",
+            "company": "INTERROYALCAR",
+            "job_title": "INTERNATIONAL FREIGHT FORWARDER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/international-freight-forwarder/1692641",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "1ec9063d-2da0-4ffa-8fa1-94b8d6a3985e",
+            "company": "INTERROYALCAR",
+            "job_title": "INTERNATIONAL FREIGHT FORWARDER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/international-freight-forwarder/1692641",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "ef843f51-2121-4da8-9c1c-60152d5e0c7a",
+            "company": "INTERROYALCAR",
+            "job_title": "INTERNATIONAL FREIGHT FORWARDER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/international-freight-forwarder/1692641",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "89d024f1-895d-4828-92c3-60085311b3f4",
+            "company": "INTERROYALCAR",
+            "job_title": "INTERNATIONAL FREIGHT FORWARDER",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/international-freight-forwarder/1692641",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        }
+    ]
+}

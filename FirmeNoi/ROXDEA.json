@@ -1,0 +1,59 @@
+{
+    "Company": "ROXDEA",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "ROXDEA",
+            "job_title": "MENAJERA/PERSONAL CURATENIE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1692385",
+            "job_logo": "No logo found",
+            "job_location": "Constanta",
+            "country": "Romania"
+        },
+        {
+            "id": "df8e3def-28eb-4c1f-91a0-853b0371c502",
+            "company": "ROXDEA",
+            "job_title": "MENAJERA/PERSONAL CURATENIE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1692385",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Constanta",
+            "country": "Romania"
+        },
+        {
+            "id": "a11c702a-29af-4c30-a826-f210598eb3a3",
+            "company": "ROXDEA",
+            "job_title": "MENAJERA/PERSONAL CURATENIE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1692385",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Constanta",
+            "country": "Romania"
+        },
+        {
+            "id": "2581002d-6f5c-4482-afaf-9776f17efd2d",
+            "company": "ROXDEA",
+            "job_title": "MENAJERA/PERSONAL CURATENIE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1692385",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Constanta",
+            "country": "Romania"
+        },
+        {
+            "id": "ed672a40-3c98-408f-b7b6-3ba214e50314",
+            "company": "ROXDEA",
+            "job_title": "MENAJERA/PERSONAL CURATENIE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1692385",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Constanta",
+            "country": "Romania"
+        },
+        {
+            "id": "26db0a63-e784-4846-9b48-a2b07f47d62c",
+            "company": "ROXDEA",
+            "job_title": "MENAJERA/PERSONAL CURATENIE",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/menajera-personal-curatenie/1692385",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Constanta",
+            "country": "Romania"
+        }
+    ]
+}

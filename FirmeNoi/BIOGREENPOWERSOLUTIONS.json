@@ -1,0 +1,112 @@
+{
+    "Company": "BIOGREENPOWERSOLUTIONS",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor necalificat constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-necalificat-constructii/1693574",
+            "job_logo": "No logo found",
+            "job_location": "Deva",
+            "country": "Romania"
+        },
+        {
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-constructii/1692872",
+            "job_logo": "No logo found",
+            "job_location": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "3462d6e9-0a30-4a81-8d3b-c22625ce3379",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor necalificat constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-necalificat-constructii/1693574",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "3b07b6a7-4c78-4948-b4ad-d3de37eb18b7",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-constructii/1692872",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "e85b76e5-2010-4ad0-8658-7c2a54b2f68a",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor necalificat constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-necalificat-constructii/1693574",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "4ffb5d28-2de4-4dc9-b251-5c6b83f59020",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-constructii/1692872",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "35fdbfb1-cdd6-4c1c-8601-4cde4492d932",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor necalificat constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-necalificat-constructii/1693574",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "5468024c-55ab-4728-a78c-bf6bbfc36fa1",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-constructii/1692872",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "e6e47172-4fdc-4645-8ebd-9b2717c4b28a",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor necalificat constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-necalificat-constructii/1693574",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "b0c00ab8-5b9d-4db3-ae6b-01e22e25869f",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-constructii/1692872",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "cfadba77-87a8-477b-a33b-bf44a4e09c17",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor necalificat constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-necalificat-constructii/1693574",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "eb48dc3b-2d13-41cf-b599-52945473e2c3",
+            "company": "BIOGREENPOWERSOLUTIONS",
+            "job_title": "Muncitor constructii",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/muncitor-constructii/1692872",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        }
+    ]
+}

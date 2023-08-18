@@ -1,0 +1,60 @@
+{
+    "Company": "PragmaticPlay",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "75d1202d-6688-4a59-a36a-e9e65837e63f",
+            "company": "PragmaticPlay",
+            "job_title": "Game Presenter with Italian",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/game-presenter-with-italian/1694093",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "ca4293f1-ce73-44bd-91ae-7f700134055f",
+            "company": "PragmaticPlay",
+            "job_title": "Game Presenter with Portuguese",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/game-presenter-with-portuguese/1694092",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "fb812d50-354f-4d1b-bf1a-32841fead72d",
+            "company": "PragmaticPlay",
+            "job_title": "Game Presenter with Italian",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/game-presenter-with-italian/1694093",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "e6ff96a3-71ae-46fd-9085-41567a647e02",
+            "company": "PragmaticPlay",
+            "job_title": "Game Presenter with Portuguese",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/game-presenter-with-portuguese/1694092",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "5fe1e2b7-dd48-48aa-88c1-8a6da98ec8a2",
+            "company": "PragmaticPlay",
+            "job_title": "Game Presenter with Italian",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/game-presenter-with-italian/1694093",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "0a1d7e4b-3882-49b7-bc82-2b1d17a3c6e5",
+            "company": "PragmaticPlay",
+            "job_title": "Game Presenter with Portuguese",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/game-presenter-with-portuguese/1694092",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

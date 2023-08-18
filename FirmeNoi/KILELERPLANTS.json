@@ -1,0 +1,59 @@
+{
+    "Company": "KILELERPLANTS",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "KILELERPLANTS",
+            "job_title": "Reprezentant vanzari - Bucuresti",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/reprezentant-vanzari-bucuresti/1691158",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "b31bd0a9-4b75-4f47-beb2-6c09ff2a9ce5",
+            "company": "KILELERPLANTS",
+            "job_title": "Reprezentant vanzari - Bucuresti",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/reprezentant-vanzari-bucuresti/1691158",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "f6ecfd96-fdd9-4354-a153-be129e95d449",
+            "company": "KILELERPLANTS",
+            "job_title": "Reprezentant vanzari - Bucuresti",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/reprezentant-vanzari-bucuresti/1691158",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "ed815188-eca9-467a-80af-d9d0110c21f1",
+            "company": "KILELERPLANTS",
+            "job_title": "Reprezentant vanzari - Bucuresti",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/reprezentant-vanzari-bucuresti/1691158",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "6935e43a-4ff6-419e-9015-2483cadcaa4c",
+            "company": "KILELERPLANTS",
+            "job_title": "Reprezentant vanzari - Bucuresti",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/reprezentant-vanzari-bucuresti/1691158",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "d69e018e-e226-4437-b6eb-a75f426a4463",
+            "company": "KILELERPLANTS",
+            "job_title": "Reprezentant vanzari - Bucuresti",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/reprezentant-vanzari-bucuresti/1691158",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

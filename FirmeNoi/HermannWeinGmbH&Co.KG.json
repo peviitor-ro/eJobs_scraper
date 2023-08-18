@@ -1,0 +1,24 @@
+{
+    "Company": "HermannWeinGmbH&Co.KG",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "id": "910c055c-8020-4050-b96e-20fd36600745",
+            "company": "HermannWeinGmbH&Co.KG",
+            "job_title": "Asistent de producție în domeniul producției de șuncă crudă - Germania",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-de-productie-in-domeniul-productiei-de-sunca-cruda-germania/1693953",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Toate oraşele",
+            "country": "Romania"
+        },
+        {
+            "id": "6e49f03a-702a-4d07-8a9e-0323a20d8294",
+            "company": "HermannWeinGmbH&Co.KG",
+            "job_title": "Asistent de producie n domeniul produciei de unc crud - Germania",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-de-productie-in-domeniul-productiei-de-sunca-cruda-germania/1693953",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Toate oraşele",
+            "country": "Romania"
+        }
+    ]
+}

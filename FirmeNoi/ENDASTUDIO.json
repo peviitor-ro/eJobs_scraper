@@ -1,0 +1,59 @@
+{
+    "Company": "ENDASTUDIO",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "ENDASTUDIO",
+            "job_title": "Consiliera/consultant vanzari magazin bijuterii in Suceava",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consiliera-consultant-vanzari-magazin-bijuterii-in-suceava/1691839",
+            "job_logo": "No logo found",
+            "job_location": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "ce9a3c55-d263-4ac3-8e30-d848ac4eb6bd",
+            "company": "ENDASTUDIO",
+            "job_title": "Consiliera/consultant vanzari magazin bijuterii in Suceava",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consiliera-consultant-vanzari-magazin-bijuterii-in-suceava/1691839",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "02acbc6b-7d9f-4d76-ba81-4e9eed03e0cb",
+            "company": "ENDASTUDIO",
+            "job_title": "Consiliera/consultant vanzari magazin bijuterii in Suceava",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consiliera-consultant-vanzari-magazin-bijuterii-in-suceava/1691839",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "7308d016-21d0-47fc-b5f5-517064859a34",
+            "company": "ENDASTUDIO",
+            "job_title": "Consiliera/consultant vanzari magazin bijuterii in Suceava",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consiliera-consultant-vanzari-magazin-bijuterii-in-suceava/1691839",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "2d35711b-bacb-42f5-bc9d-2398ecff9b95",
+            "company": "ENDASTUDIO",
+            "job_title": "Consiliera/consultant vanzari magazin bijuterii in Suceava",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consiliera-consultant-vanzari-magazin-bijuterii-in-suceava/1691839",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "35009e88-04af-4cb6-8429-d79832704c05",
+            "company": "ENDASTUDIO",
+            "job_title": "Consiliera/consultant vanzari magazin bijuterii in Suceava",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consiliera-consultant-vanzari-magazin-bijuterii-in-suceava/1691839",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        }
+    ]
+}

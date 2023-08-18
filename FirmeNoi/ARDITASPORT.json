@@ -1,0 +1,59 @@
+{
+    "Company": "ARDITASPORT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "ARDITASPORT",
+            "job_title": "Lucrator comercial",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial/1692457",
+            "job_logo": "No logo found",
+            "job_location": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "efb76525-3c20-4439-b58f-8ffb817fa593",
+            "company": "ARDITASPORT",
+            "job_title": "Lucrator comercial",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial/1692457",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "d4537f5d-3fda-4565-bc06-7c4fc09b6039",
+            "company": "ARDITASPORT",
+            "job_title": "Lucrator comercial",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial/1692457",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "48e6c8e6-3e0a-4964-ab34-7bb0afe79f44",
+            "company": "ARDITASPORT",
+            "job_title": "Lucrator comercial",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial/1692457",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "7066eca5-53cf-46e6-9e83-cc323595d094",
+            "company": "ARDITASPORT",
+            "job_title": "Lucrator comercial",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial/1692457",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        },
+        {
+            "id": "2689c872-8cf4-466c-babe-3b24104f31c5",
+            "company": "ARDITASPORT",
+            "job_title": "Lucrator comercial",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/lucrator-comercial/1692457",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Deva",
+            "country": "Romania"
+        }
+    ]
+}

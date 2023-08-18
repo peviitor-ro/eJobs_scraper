@@ -1,0 +1,23 @@
+{
+    "Company": "MLGEUROPEANBUILDINGTRADE",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "MLGEUROPEANBUILDINGTRADE",
+            "job_title": "Montator fatade ventilate, tamplarie pvc",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/montator-fatade-ventilate-tamplarie-pvc/1690539",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "e1743b71-6c0a-4e8b-9318-1ccf6376f15b",
+            "company": "MLGEUROPEANBUILDINGTRADE",
+            "job_title": "Montator fatade ventilate, tamplarie pvc",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/montator-fatade-ventilate-tamplarie-pvc/1690539",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

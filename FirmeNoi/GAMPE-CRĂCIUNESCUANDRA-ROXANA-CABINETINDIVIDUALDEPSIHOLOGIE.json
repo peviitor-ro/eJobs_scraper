@@ -1,0 +1,41 @@
+{
+    "Company": "GAMPE-CRĂCIUNESCUANDRA-ROXANA-CABINETINDIVIDUALDEPSIHOLOGIE",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "GAMPE-CRĂCIUNESCUANDRA-ROXANA-CABINETINDIVIDUALDEPSIHOLOGIE",
+            "job_title": "Psiholog",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/psiholog/1692847",
+            "job_logo": "No logo found",
+            "job_location": "Timisoara",
+            "country": "Romania"
+        },
+        {
+            "id": "70102ac4-5524-46b8-a6cb-15236912150f",
+            "company": "GAMPE-CRĂCIUNESCUANDRA-ROXANA-CABINETINDIVIDUALDEPSIHOLOGIE",
+            "job_title": "Psiholog",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/psiholog/1692847",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Timisoara",
+            "country": "Romania"
+        },
+        {
+            "id": "fe00e27a-7def-4bf1-b11c-14150dcb4f6f",
+            "company": "GAMPE-CRĂCIUNESCUANDRA-ROXANA-CABINETINDIVIDUALDEPSIHOLOGIE",
+            "job_title": "Psiholog",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/psiholog/1692847",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Timisoara",
+            "country": "Romania"
+        },
+        {
+            "id": "6f184736-0362-4805-a20a-67096b0699d4",
+            "company": "GAMPE-CRĂCIUNESCUANDRA-ROXANA-CABINETINDIVIDUALDEPSIHOLOGIE",
+            "job_title": "Psiholog",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/psiholog/1692847",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Timisoara",
+            "country": "Romania"
+        }
+    ]
+}

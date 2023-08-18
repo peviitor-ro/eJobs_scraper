@@ -1,0 +1,23 @@
+{
+    "Company": "KokkaFlokkaStudios",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "KokkaFlokkaStudios",
+            "job_title": "Coafor 100% (m/f) - Switzerland € 3'700- € 5'000.- / Mo",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/coafor-m-f-switzerland-mo/1691443",
+            "job_logo": "No logo found",
+            "job_location": "Strainatate",
+            "country": "Romania"
+        },
+        {
+            "id": "43e3b7ef-3ee0-4d06-932e-f326babc3768",
+            "company": "KokkaFlokkaStudios",
+            "job_title": "Coafor 100% (m/f) - Switzerland € 3'700- € 5'000.- / Mo",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/coafor-m-f-switzerland-mo/1691443",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Strainatate",
+            "country": "Romania"
+        }
+    ]
+}

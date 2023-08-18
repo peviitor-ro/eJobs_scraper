@@ -1,0 +1,59 @@
+{
+    "Company": "VIPERAUTOSERVICE",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "VIPERAUTOSERVICE",
+            "job_title": "Agent Telesales (ofertare prin telefon)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales-ofertare-prin-telefon/1691520",
+            "job_logo": "No logo found",
+            "job_location": "Targu-Mures",
+            "country": "Romania"
+        },
+        {
+            "id": "dd825721-9150-4fd6-930f-37b8948e92f3",
+            "company": "VIPERAUTOSERVICE",
+            "job_title": "Agent Telesales (ofertare prin telefon)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales-ofertare-prin-telefon/1691520",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Targu-Mures",
+            "country": "Romania"
+        },
+        {
+            "id": "3acbc06c-14e6-4742-8fe7-894d3a4c54c3",
+            "company": "VIPERAUTOSERVICE",
+            "job_title": "Agent Telesales (ofertare prin telefon)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales-ofertare-prin-telefon/1691520",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Targu-Mures",
+            "country": "Romania"
+        },
+        {
+            "id": "f7de1d10-9ea9-488c-94a4-d4c5c5f6fa11",
+            "company": "VIPERAUTOSERVICE",
+            "job_title": "Agent Telesales (ofertare prin telefon)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales-ofertare-prin-telefon/1691520",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Targu-Mures",
+            "country": "Romania"
+        },
+        {
+            "id": "0b88b98c-3be7-461c-882d-d54ea8150145",
+            "company": "VIPERAUTOSERVICE",
+            "job_title": "Agent Telesales (ofertare prin telefon)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales-ofertare-prin-telefon/1691520",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Targu-Mures",
+            "country": "Romania"
+        },
+        {
+            "id": "72d911bb-7660-44be-9e3d-abdd2685f0ef",
+            "company": "VIPERAUTOSERVICE",
+            "job_title": "Agent Telesales (ofertare prin telefon)",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/agent-telesales-ofertare-prin-telefon/1691520",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Targu-Mures",
+            "country": "Romania"
+        }
+    ]
+}

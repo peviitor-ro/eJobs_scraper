@@ -1,0 +1,59 @@
+{
+    "Company": "HARISSOFTWAREDEVELOPMENT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "HARISSOFTWAREDEVELOPMENT",
+            "job_title": "DevOps Engineer",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/devops-engineer/1693477",
+            "job_logo": "No logo found",
+            "job_location": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "a59b5685-e057-4003-bed4-84514f212b66",
+            "company": "HARISSOFTWAREDEVELOPMENT",
+            "job_title": "DevOps Engineer",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/devops-engineer/1693477",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "500c57f4-0367-442e-97fe-504860f656d9",
+            "company": "HARISSOFTWAREDEVELOPMENT",
+            "job_title": "DevOps Engineer",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/devops-engineer/1693477",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "548408e6-3d91-42dc-9ea1-cda70b933888",
+            "company": "HARISSOFTWAREDEVELOPMENT",
+            "job_title": "DevOps Engineer",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/devops-engineer/1693477",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "9fe2bde6-9380-4969-a57a-bdb61d7943ea",
+            "company": "HARISSOFTWAREDEVELOPMENT",
+            "job_title": "DevOps Engineer",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/devops-engineer/1693477",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        },
+        {
+            "id": "79a5250a-df1a-4eb7-981f-6b7672f33a14",
+            "company": "HARISSOFTWAREDEVELOPMENT",
+            "job_title": "DevOps Engineer",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/devops-engineer/1693477",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Remote de acasa",
+            "country": "Romania"
+        }
+    ]
+}

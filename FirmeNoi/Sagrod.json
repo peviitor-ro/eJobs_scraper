@@ -1,0 +1,112 @@
+{
+    "Company": "Sagrod",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "Sagrod",
+            "job_title": "Macelar - Arbore / Vicov",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/macelar-arbore-vicov/1691943",
+            "job_logo": "No logo found",
+            "job_location": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "company": "Sagrod",
+            "job_title": "Gestionar pentru Magazin Alimentar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/gestionar-pentru-magazin-alimentar/1691939",
+            "job_logo": "No logo found",
+            "job_location": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "9ab070ed-373f-4676-848c-ec81927b74c7",
+            "company": "Sagrod",
+            "job_title": "Macelar - Arbore / Vicov",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/macelar-arbore-vicov/1691943",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "fe7a948d-4c59-4865-add0-ac99d56b2a65",
+            "company": "Sagrod",
+            "job_title": "Gestionar pentru Magazin Alimentar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/gestionar-pentru-magazin-alimentar/1691939",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "925ab603-90d2-435c-a4b4-107555280d3e",
+            "company": "Sagrod",
+            "job_title": "Macelar - Arbore / Vicov",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/macelar-arbore-vicov/1691943",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "469213b6-7a59-4821-873a-12f621b9cdbe",
+            "company": "Sagrod",
+            "job_title": "Gestionar pentru Magazin Alimentar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/gestionar-pentru-magazin-alimentar/1691939",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "6a868e98-2dac-407f-86ff-0c8a62d56407",
+            "company": "Sagrod",
+            "job_title": "Macelar - Arbore / Vicov",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/macelar-arbore-vicov/1691943",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "9e3968da-4c8a-4dea-8b4f-8e3d2e464975",
+            "company": "Sagrod",
+            "job_title": "Gestionar pentru Magazin Alimentar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/gestionar-pentru-magazin-alimentar/1691939",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "dc3f3b17-b784-443b-8993-3f6b8977608c",
+            "company": "Sagrod",
+            "job_title": "Macelar - Arbore / Vicov",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/macelar-arbore-vicov/1691943",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "4f5881ea-34b0-44dd-ab09-e8e07044c4b3",
+            "company": "Sagrod",
+            "job_title": "Gestionar pentru Magazin Alimentar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/gestionar-pentru-magazin-alimentar/1691939",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "dd2d9bd1-141c-40fb-a16a-ea4fd8651b54",
+            "company": "Sagrod",
+            "job_title": "Macelar - Arbore / Vicov",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/macelar-arbore-vicov/1691943",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        },
+        {
+            "id": "0f396dad-c0fc-42e2-ae60-91ec3f873dc3",
+            "company": "Sagrod",
+            "job_title": "Gestionar pentru Magazin Alimentar",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/gestionar-pentru-magazin-alimentar/1691939",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Suceava",
+            "country": "Romania"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "Company": "DENTOART",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "DENTOART",
+            "job_title": "Asistent Medical Stomatologie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-stomatologie/1691551",
+            "job_logo": "No logo found",
+            "job_location": "Galati",
+            "country": "Romania"
+        },
+        {
+            "id": "6552fee7-75f3-4284-b6b6-88d1e02540c2",
+            "company": "DENTOART",
+            "job_title": "Asistent Medical Stomatologie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-stomatologie/1691551",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Galati",
+            "country": "Romania"
+        },
+        {
+            "id": "dcdcd29c-8b52-4fef-abb4-82885f02a9f6",
+            "company": "DENTOART",
+            "job_title": "Asistent Medical Stomatologie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-stomatologie/1691551",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Galati",
+            "country": "Romania"
+        },
+        {
+            "id": "25b83af2-7b33-4467-8635-7a4188927228",
+            "company": "DENTOART",
+            "job_title": "Asistent Medical Stomatologie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-stomatologie/1691551",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Galati",
+            "country": "Romania"
+        },
+        {
+            "id": "f80cb7de-d886-44fc-9fdf-3c8b040db2a3",
+            "company": "DENTOART",
+            "job_title": "Asistent Medical Stomatologie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-stomatologie/1691551",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Galati",
+            "country": "Romania"
+        },
+        {
+            "id": "fe0e4c1c-7cb0-4938-96e6-387bfb3bf532",
+            "company": "DENTOART",
+            "job_title": "Asistent Medical Stomatologie",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/asistent-medical-stomatologie/1691551",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Galati",
+            "country": "Romania"
+        }
+    ]
+}

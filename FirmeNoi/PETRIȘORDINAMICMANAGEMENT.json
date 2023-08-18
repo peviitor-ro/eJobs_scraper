@@ -1,0 +1,41 @@
+{
+    "Company": "PETRIȘORDINAMICMANAGEMENT",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "PETRIȘORDINAMICMANAGEMENT",
+            "job_title": "Manager Magazin",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manager-magazin/1692562",
+            "job_logo": "No logo found",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "eacfded6-c268-464b-bfb5-5da9d8bdd984",
+            "company": "PETRIȘORDINAMICMANAGEMENT",
+            "job_title": "Manager Magazin",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manager-magazin/1692562",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "351c18ba-2b50-48bc-b98f-c3e72334c83a",
+            "company": "PETRIȘORDINAMICMANAGEMENT",
+            "job_title": "Manager Magazin",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manager-magazin/1692562",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        },
+        {
+            "id": "3e000097-931e-4b78-bf25-ab9d0f7f30f8",
+            "company": "PETRIȘORDINAMICMANAGEMENT",
+            "job_title": "Manager Magazin",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/manager-magazin/1692562",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Bucuresti",
+            "country": "Romania"
+        }
+    ]
+}

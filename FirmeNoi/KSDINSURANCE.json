@@ -1,0 +1,59 @@
+{
+    "Company": "KSDINSURANCE",
+    "Logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+    "Jobs": [
+        {
+            "company": "KSDINSURANCE",
+            "job_title": "Consultant Asigurari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-asigurari/1692104",
+            "job_logo": "No logo found",
+            "job_location": "Brasov",
+            "country": "Romania"
+        },
+        {
+            "id": "ec3c4c88-d3eb-4aaf-8944-75c334d4a4ab",
+            "company": "KSDINSURANCE",
+            "job_title": "Consultant Asigurari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-asigurari/1692104",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "job_location": "Brasov",
+            "country": "Romania"
+        },
+        {
+            "id": "de02e1b8-1078-4460-98e8-aca8cdc6a852",
+            "company": "KSDINSURANCE",
+            "job_title": "Consultant Asigurari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-asigurari/1692104",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Brasov",
+            "country": "Romania"
+        },
+        {
+            "id": "14af69b6-0e93-4b44-81c3-7d60dbf17b79",
+            "company": "KSDINSURANCE",
+            "job_title": "Consultant Asigurari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-asigurari/1692104",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Brasov",
+            "country": "Romania"
+        },
+        {
+            "id": "c7b93047-18da-4a76-baca-15ca01a78f2e",
+            "company": "KSDINSURANCE",
+            "job_title": "Consultant Asigurari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-asigurari/1692104",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Brasov",
+            "country": "Romania"
+        },
+        {
+            "id": "4b1fa400-1f63-4016-8205-a0e582037ec0",
+            "company": "KSDINSURANCE",
+            "job_title": "Consultant Asigurari",
+            "job_link": "https://www.ejobs.ro/user/locuri-de-munca/consultant-asigurari/1692104",
+            "job_logo": "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png",
+            "city": "Brasov",
+            "country": "Romania"
+        }
+    ]
+}
