@@ -16,12 +16,11 @@ The `eJobs Scraper` is a web scraping tool designed to extract job listings from
 ### Prerequisites
 
 - Python 3.x
-- `requests`, `BeautifulSoup4`, and other required libraries. Install them using `pip install -r requirements.txt`.
 
 ### Setup
 
 1. Clone the repository:
-```bash
+
 git clone [repository-link]
 cd [repository-directory]
 
