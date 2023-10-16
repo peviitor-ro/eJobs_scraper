@@ -39,11 +39,17 @@ def check_for_jobs_and_extract_company(url):
             job_title = "Unknown"
             job_link = url
 
-
         # Extracting job logo
-        job_logo = job.find('img', alt=company_title)
         default_logo = "https://design.ejobs.ro/assets/img/colorPositiveOrange.07ea350f.png"
-        job_logo_url = job_logo['src'] if job_logo and not job_logo['src'].startswith("data:image") else default_logo
+        job_logo_container = job.find('div', class_='JDCDetails__Logo')
+        if job_logo_container:
+            job_logo = job_logo_container.find('img', alt=True)
+            if job_logo and job_logo.has_attr('src'):
+                job_logo_url = job_logo['src'] if not job_logo['src'].startswith("data:image") else default_logo
+            else:
+                job_logo_url = default_logo
+        else:
+            job_logo_url = default_logo
 
         # Extracting city
         job_city_tag = job.find('span', class_='JCContentMiddle__Info')

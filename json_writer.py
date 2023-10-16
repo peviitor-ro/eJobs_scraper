@@ -16,7 +16,7 @@ def write_to_json(company_jobs_data):
             with open(filename, 'r', encoding='utf-8') as existing_file:
                 existing_data = json.load(existing_file)
                 existing_jobs = existing_data.get('Jobs', [])
-
+        
         new_jobs = company_data["Jobs"]
         
         # Only append new jobs with IDs not found in the existing file
@@ -29,9 +29,10 @@ def write_to_json(company_jobs_data):
             json.dump({
                 "Company": company,
                 "Logo": company_data.get('Logo', 'Default Logo URL'),
-
                 "Jobs": all_jobs
             }, file, ensure_ascii=False, indent=4)
+        
+        print(f"Created or updated JSON file for {company}")
 
     return f"Processed {len(company_jobs_data)} companies. JSON files have been updated in the '{directory}' folder."
 
